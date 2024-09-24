@@ -7,3 +7,11 @@ David Li (118900971)
 24 September 2024
 CMSC320: Introduction to Data Science
 Final Project - Checkpoint 1
+
+What datasets are you choosing?
+We are choosing datasets from the World Bank “World Development Indicators” Databank which includes various sets in the agriculture, forestry, pollution, and economic series from the top 25 economies in the world.
+
+https://databank.worldbank.org/source/world-development-indicators# 
+
+Why are you choosing this dataset?
+We are attempting to draw a connection between developments in agriculture and the environment to changes in population and the economic state of a country.
