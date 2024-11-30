@@ -1,9 +1,7 @@
 # CMSC320 FINAL PROJECT
 The format of the final tutorial (final deliverable) should be as follows:
-1. Header with contributions.
-Title
-Fall 2024 Data Science Project
-Your name(s)
+# Title
+## Contributors
 Contributions:
 For each member, list which of the following sections they worked on, and
 summarize the contributions in 1-2 sentences. Be specific!
