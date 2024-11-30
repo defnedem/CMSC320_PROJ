@@ -1,6 +1,6 @@
 # CMSC320 FINAL PROJECT TITLE
 
-Contributors: Defne Demirekler, Eric Metheny, Ethan Hartz, Jamie Zhao, David Li
+Contributors: Defne Demirekler, Eric Metheny, Ethan Hartz, Jamie Zhao, David Li </br>
 Contributions:
 For each member, list which of the following sections they worked on, and summarize the contributions in 1-2 sentences. Be specific!
 
