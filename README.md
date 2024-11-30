@@ -1,8 +1,4 @@
-# CMSC320 FINAL PROJECT
-
-## The format of the final tutorial (final deliverable) should be as follows:
-
-### 1. Title
+# CMSC320 FINAL PROJECT TITLE
 
 #### 2. Contributors: Defne Demirekler, Eric Metheny, Ethan Hartz, Jamie Zhao, David Li
 #### Contributions:
